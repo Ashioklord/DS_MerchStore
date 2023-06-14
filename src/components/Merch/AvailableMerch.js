@@ -33,6 +33,7 @@ const AvailableMerch = () => {
   const merchlist = DUMMY_MERCH.map((Item) => (
     <MerchItem
       key={Item.id}
+      id={Item.id}
       name={Item.name}
       description={Item.description}
       price={Item.price}
