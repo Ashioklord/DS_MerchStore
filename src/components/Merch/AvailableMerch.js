@@ -12,7 +12,7 @@ const DUMMY_MERCH = [
   {
     id: "m2",
     name: "Nezuko plushie",
-    description: "A plushie of Nezuko Kamado in her baby form.",
+    description: "A plushie of Nezuko Kamado in her baby form",
     price: 16.5,
   },
   {
